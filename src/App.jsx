@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>Bassole Ano</h1>
-      <p>travaille plus</p>
+      <p>travaille dur</p>
     </>
   );
 }
