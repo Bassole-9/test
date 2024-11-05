@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Bassole Arnaud</h1>
+      <h1>Bassole Ano</h1>
     </>
   );
 }
