@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>Bassole Ano</h1>
-      <p>travaille dur</p>
+      <p>travaille dur pour aller loin</p>
     </>
   );
 }
